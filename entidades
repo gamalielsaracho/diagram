@@ -1,0 +1,40 @@
+Usuarios
+TipoUsuarios
+Pacientes
+Citas
+TipoCitas
+Consultas
+Resetarios
+Medicamentos
+TipoMedicamentos
+Alergias
+
+Fichas (Registro diario de consultas).
+	datos del paciente(Id).
+	fecha.
+	Detalle Pre consulta(gral).
+	 HTA -> paciente crónico.
+	 - circunferencia cintura.
+	 - H6t.
+	 - fecha de proxima consulta.
+	 edad >=15.
+	 - PA.
+	 - peso.
+	 - temperatura.
+	 - talla.
+	 edad <= 3
+	 - circuferencia cefalica.
+
+	Motivos de Consulta.
+	Tratamiento.
+	Datos del medico(Id)
+
+Registro diario de consultas----
+
+Pacientes
+ - ci.
+ - nombres y apellidos.
+ - Etnia.
+ - edad.
+ - Sexo.
+ - paciente nuevo en el .
